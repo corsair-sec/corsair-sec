@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @corsair-sec
-- 👀 I’m interested in all things security
-- 🌱 I’m currently learning bash scripting and testing out of CEH
-- 📫 How to reach me Corsair@duck.com
+I’m @corsair-sec
+I’m interested in all things security. 
+Corsair@duck.com
 
 <!---
 corsair-sec/corsair-sec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
